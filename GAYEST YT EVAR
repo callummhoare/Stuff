@@ -1,0 +1,5 @@
+/* CHANGES BACKGROUND */
+.yt-card,body,.yt-uix-button-primary,.yt-uix-button-default,#yt-masthead-container,#masthead-search-terms{background: background: #ff0000;background: -moz-linear-gradient(-45deg, #ff0000 0%, #ffa500 17%, #ffff00 33%, #008000 50%, #0000ff 67%, #4b0082 83%, #ee82ee 100%);background: -webkit-linear-gradient(-45deg, #ff0000 0%,#ffa500 17%,#ffff00 33%,#008000 50%,#0000ff 67%,#4b0082 83%,#ee82ee 100%);background: linear-gradient(135deg, #ff0000 0%,#ffa500 17%,#ffff00 33%,#008000 50%,#0000ff 67%,#4b0082 83%,#ee82ee 100%);border-color: rgba(0, 0, 0, 0);}
+
+/*CHANGES FONT AND COLOUR*/
+body{font-family: "Comic Sans MS", cursive, sans-serif;color:#af0000}
